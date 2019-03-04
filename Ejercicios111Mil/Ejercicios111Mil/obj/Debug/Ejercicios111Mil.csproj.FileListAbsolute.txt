@@ -1,0 +1,5 @@
+C:\Users\NatyMel\Documents\Visual Studio 2008\Projects\Ejercicios111Mil\Ejercicios111Mil\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NatyMel\Documents\Visual Studio 2008\Projects\Ejercicios111Mil\Ejercicios111Mil\bin\Debug\Ejercicios111Mil.exe
+C:\Users\NatyMel\Documents\Visual Studio 2008\Projects\Ejercicios111Mil\Ejercicios111Mil\bin\Debug\Ejercicios111Mil.pdb
+C:\Users\NatyMel\Documents\Visual Studio 2008\Projects\Ejercicios111Mil\Ejercicios111Mil\obj\Debug\Ejercicios111Mil.exe
+C:\Users\NatyMel\Documents\Visual Studio 2008\Projects\Ejercicios111Mil\Ejercicios111Mil\obj\Debug\Ejercicios111Mil.pdb
