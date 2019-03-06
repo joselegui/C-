@@ -1,0 +1,26 @@
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\RelojIronMan\RelojIronMan\bin\Debug\RelojIronMan.exe
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\RelojIronMan\RelojIronMan\bin\Debug\RelojIronMan.pdb
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\RelojIronMan\RelojIronMan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.Form1.resources
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.Properties.Resources.resources
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.csproj.GenerateResource.Cache
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.exe
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.pdb
+G:\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.exe
+G:\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.pdb
+D:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.exe
+D:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.pdb
+D:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\bin\Debug\RelojIronMan.exe
+D:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\bin\Debug\RelojIronMan.pdb
+D:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\obj\Debug\ResolveAssemblyReference.cache
+D:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.Form1.resources
+D:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.Properties.Resources.resources
+D:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.csproj.GenerateResource.Cache
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.exe
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.pdb
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\bin\Debug\RelojIronMan.exe
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\bin\Debug\RelojIronMan.pdb
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\obj\Debug\ResolveAssemblyReference.cache
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.Form1.resources
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.Properties.Resources.resources
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Mis proyectos\RelojIronMan\RelojIronMan\obj\Debug\RelojIronMan.csproj.GenerateResource.Cache

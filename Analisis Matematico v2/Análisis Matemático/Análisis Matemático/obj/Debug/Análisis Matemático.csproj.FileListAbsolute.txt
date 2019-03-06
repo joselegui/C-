@@ -1,0 +1,26 @@
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\Análisis Matemático\Análisis Matemático\bin\Debug\Análisis Matemático.exe
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\Análisis Matemático\Análisis Matemático\bin\Debug\Análisis Matemático.pdb
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\Análisis Matemático\Análisis Matemático\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis_Matemático.Ruffini.resources
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis_Matemático.Properties.Resources.resources
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis Matemático.csproj.GenerateResource.Cache
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis Matemático.exe
+C:\Users\NATYMEL\Documents\Visual Studio 2008\Projects\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis Matemático.pdb
+D:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis Matemático.exe
+D:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis Matemático.pdb
+D:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\bin\Debug\Análisis Matemático.exe
+D:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\bin\Debug\Análisis Matemático.pdb
+D:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\obj\Debug\ResolveAssemblyReference.cache
+D:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis_Matemático.Ruffini.resources
+D:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis_Matemático.Properties.Resources.resources
+D:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis Matemático.csproj.GenerateResource.Cache
+F:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis Matemático.exe
+F:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis Matemático.pdb
+F:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\bin\Debug\Análisis Matemático.exe
+F:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\bin\Debug\Análisis Matemático.pdb
+F:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\obj\Debug\ResolveAssemblyReference.cache
+F:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis_Matemático.Ruffini.resources
+F:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis_Matemático.Properties.Resources.resources
+F:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis Matemático.csproj.GenerateResource.Cache
+E:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis Matemático.exe
+E:\JOSEPendrivers\Pini\POO\Analisis Matematico v2\Análisis Matemático\Análisis Matemático\obj\Debug\Análisis Matemático.pdb

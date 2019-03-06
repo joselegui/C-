@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{073F224A-E091-4DF0-834E-10C67E6059E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RestauranteLegui</RootNamespace>
+    <AssemblyName>RestauranteLegui</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anigif_candles-2056-1303504097-13.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BtnH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BtnD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BtnC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BtnPizza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1464243288_beer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cake_ChocolateCake_26374.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ensalada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carta de precentacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carta1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hambu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hambu2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TheNote_McDonalds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hamburguesaking.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HCuádruple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pizza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pizza3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza-margarita_h5fr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizzaDos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1464301033_f-left_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1464301126_house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1464301026_f-right_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carta21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rabas1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brochet1.Jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pollo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spaghettis1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pescado-frito1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carta31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\06.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botella-cerveza-quilmes-900x900.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botella.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\normal15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carta41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1464242553_cake1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1464242559_cake_choko1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b13acd00346a8e710950a803f2f45f83d0b80435.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flan-casero.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ensalada-de-frutas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ensalada11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ensalada21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ensalada5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ensalada41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\producto-ensaladas1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BotonesAzul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Azul1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Azul2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Azul3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Azul4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Azul5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Azul6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Azul61.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Azul7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Azul8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Azul9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1464419764_Empty Trash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trash1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trash2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botonApagado1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botonApagado2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1464468291_Circulation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1464468287_Apply.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Caja-Registradora1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pago-Tarjeta2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Caja-Registradora2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pago-Tarjeta.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tickets.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tickets1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pago-Tarjeta4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Caja1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Caja2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

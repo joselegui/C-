@@ -1,0 +1,24 @@
+C:\Users\NatyMel\AppData\Local\Temporary Projects\Boleta de pago\bin\Debug\Boleta de pago.exe
+C:\Users\NatyMel\AppData\Local\Temporary Projects\Boleta de pago\bin\Debug\Boleta de pago.pdb
+C:\Users\NatyMel\AppData\Local\Temporary Projects\Boleta de pago\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NatyMel\AppData\Local\Temporary Projects\Boleta de pago\obj\Debug\Boleta_de_pago.Form1.resources
+C:\Users\NatyMel\AppData\Local\Temporary Projects\Boleta de pago\obj\Debug\Boleta_de_pago.Properties.Resources.resources
+C:\Users\NatyMel\AppData\Local\Temporary Projects\Boleta de pago\obj\Debug\Boleta de pago.csproj.GenerateResource.Cache
+C:\Users\NatyMel\AppData\Local\Temporary Projects\Boleta de pago\obj\Debug\Boleta de pago.exe
+C:\Users\NatyMel\AppData\Local\Temporary Projects\Boleta de pago\obj\Debug\Boleta de pago.pdb
+E:\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\obj\Debug\Boleta de pago.exe
+E:\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\obj\Debug\Boleta de pago.pdb
+E:\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\bin\Debug\Boleta de pago.exe
+E:\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\bin\Debug\Boleta de pago.pdb
+E:\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\obj\Debug\ResolveAssemblyReference.cache
+E:\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\obj\Debug\Boleta_de_pago.Form1.resources
+E:\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\obj\Debug\Boleta_de_pago.Properties.Resources.resources
+E:\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\obj\Debug\Boleta de pago.csproj.GenerateResource.Cache
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\obj\Debug\Boleta de pago.exe
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\obj\Debug\Boleta de pago.pdb
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\bin\Debug\Boleta de pago.exe
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\bin\Debug\Boleta de pago.pdb
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\obj\Debug\ResolveAssemblyReference.cache
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\obj\Debug\Boleta_de_pago.Form1.resources
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\obj\Debug\Boleta_de_pago.Properties.Resources.resources
+E:\JOSEPendrivers\Pini\Ejercicios de guias\Boleta de pago\Boleta de pago\obj\Debug\Boleta de pago.csproj.GenerateResource.Cache

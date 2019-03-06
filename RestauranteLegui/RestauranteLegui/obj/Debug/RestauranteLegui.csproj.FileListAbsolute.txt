@@ -1,0 +1,34 @@
+C:\Users\NatyMel\Documents\Visual Studio 2008\Projects\RestauranteLegui\RestauranteLegui\bin\Debug\RestauranteLegui.exe
+C:\Users\NatyMel\Documents\Visual Studio 2008\Projects\RestauranteLegui\RestauranteLegui\bin\Debug\RestauranteLegui.pdb
+C:\Users\NatyMel\Documents\Visual Studio 2008\Projects\RestauranteLegui\RestauranteLegui\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NatyMel\Documents\Visual Studio 2008\Projects\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.Form1.resources
+C:\Users\NatyMel\Documents\Visual Studio 2008\Projects\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.Properties.Resources.resources
+C:\Users\NatyMel\Documents\Visual Studio 2008\Projects\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.csproj.GenerateResource.Cache
+C:\Users\NatyMel\Documents\Visual Studio 2008\Projects\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.exe
+C:\Users\NatyMel\Documents\Visual Studio 2008\Projects\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.pdb
+J:\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.exe
+J:\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.pdb
+F:\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.exe
+F:\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.pdb
+F:\RestauranteLegui\RestauranteLegui\bin\Debug\RestauranteLegui.exe
+F:\RestauranteLegui\RestauranteLegui\bin\Debug\RestauranteLegui.pdb
+F:\RestauranteLegui\RestauranteLegui\obj\Debug\ResolveAssemblyReference.cache
+F:\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.Form1.resources
+F:\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.Properties.Resources.resources
+F:\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.csproj.GenerateResource.Cache
+F:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.exe
+F:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.pdb
+F:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\bin\Debug\RestauranteLegui.exe
+F:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\bin\Debug\RestauranteLegui.pdb
+F:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\obj\Debug\ResolveAssemblyReference.cache
+F:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.Form1.resources
+F:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.Properties.Resources.resources
+F:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.csproj.GenerateResource.Cache
+E:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.exe
+E:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.pdb
+E:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\bin\Debug\RestauranteLegui.exe
+E:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\bin\Debug\RestauranteLegui.pdb
+E:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\obj\Debug\ResolveAssemblyReference.cache
+E:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.Form1.resources
+E:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.Properties.Resources.resources
+E:\JOSEPendrivers\Pini\Ejercicios de guias\RestauranteLegui\RestauranteLegui\obj\Debug\RestauranteLegui.csproj.GenerateResource.Cache
