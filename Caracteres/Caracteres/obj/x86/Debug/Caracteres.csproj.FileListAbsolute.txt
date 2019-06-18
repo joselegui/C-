@@ -1,0 +1,30 @@
+c:\users\facturacion1\documents\visual studio 2010\Projects\Caracteres\Caracteres\bin\Debug\Caracteres.exe
+c:\users\facturacion1\documents\visual studio 2010\Projects\Caracteres\Caracteres\bin\Debug\Caracteres.pdb
+c:\users\facturacion1\documents\visual studio 2010\Projects\Caracteres\Caracteres\obj\x86\Debug\Caracteres.Form1.resources
+c:\users\facturacion1\documents\visual studio 2010\Projects\Caracteres\Caracteres\obj\x86\Debug\Caracteres.Properties.Resources.resources
+c:\users\facturacion1\documents\visual studio 2010\Projects\Caracteres\Caracteres\obj\x86\Debug\Caracteres.csproj.GenerateResource.Cache
+c:\users\facturacion1\documents\visual studio 2010\Projects\Caracteres\Caracteres\obj\x86\Debug\Caracteres.exe
+c:\users\facturacion1\documents\visual studio 2010\Projects\Caracteres\Caracteres\obj\x86\Debug\Caracteres.pdb
+G:\Intituto93\Caracteres\Caracteres\obj\x86\Debug\Caracteres.exe
+G:\Intituto93\Caracteres\Caracteres\obj\x86\Debug\Caracteres.pdb
+G:\Intituto93\Caracteres\Caracteres\bin\Debug\Caracteres.exe
+G:\Intituto93\Caracteres\Caracteres\bin\Debug\Caracteres.pdb
+G:\Intituto93\Caracteres\Caracteres\obj\x86\Debug\Caracteres.Form1.resources
+G:\Intituto93\Caracteres\Caracteres\obj\x86\Debug\Caracteres.Properties.Resources.resources
+G:\Intituto93\Caracteres\Caracteres\obj\x86\Debug\Caracteres.csproj.GenerateResource.Cache
+C:\Users\NatyMel\Documents\Visual Studio 2010\Projects\Caracteres\Caracteres\obj\x86\Debug\Caracteres.exe
+C:\Users\NatyMel\Documents\Visual Studio 2010\Projects\Caracteres\Caracteres\obj\x86\Debug\Caracteres.pdb
+C:\Users\NatyMel\Documents\Visual Studio 2010\Projects\Caracteres\Caracteres\bin\Debug\Caracteres.exe
+C:\Users\NatyMel\Documents\Visual Studio 2010\Projects\Caracteres\Caracteres\bin\Debug\Caracteres.pdb
+C:\Users\NatyMel\Documents\Visual Studio 2010\Projects\Caracteres\Caracteres\obj\x86\Debug\Caracteres.Form1.resources
+C:\Users\NatyMel\Documents\Visual Studio 2010\Projects\Caracteres\Caracteres\obj\x86\Debug\Caracteres.Properties.Resources.resources
+C:\Users\NatyMel\Documents\Visual Studio 2010\Projects\Caracteres\Caracteres\obj\x86\Debug\Caracteres.csproj.GenerateResource.Cache
+C:\Users\NatyMel\Documents\Visual Studio 2010\Projects\Caracteres\Caracteres\obj\x86\Debug\Caracteres.csprojResolveAssemblyReference.cache
+E:\Intituto93\Tarea prof PINI\Caracteres\Caracteres\obj\x86\Debug\Caracteres.exe
+E:\Intituto93\Tarea prof PINI\Caracteres\Caracteres\obj\x86\Debug\Caracteres.pdb
+E:\Intituto93\Tarea prof PINI\Caracteres\Caracteres\obj\x86\Debug\Caracteres.csprojResolveAssemblyReference.cache
+E:\Intituto93\Tarea prof PINI\Caracteres\Caracteres\obj\x86\Debug\Caracteres.Form1.resources
+E:\Intituto93\Tarea prof PINI\Caracteres\Caracteres\obj\x86\Debug\Caracteres.Properties.Resources.resources
+E:\Intituto93\Tarea prof PINI\Caracteres\Caracteres\obj\x86\Debug\Caracteres.csproj.GenerateResource.Cache
+E:\Intituto93\Tarea prof PINI\Caracteres\Caracteres\bin\Debug\Caracteres.exe
+E:\Intituto93\Tarea prof PINI\Caracteres\Caracteres\bin\Debug\Caracteres.pdb
