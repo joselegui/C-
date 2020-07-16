@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{48CC8303-938D-4B0A-9F19-69D1A444349B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ejercicio5_2</RootNamespace>
+    <AssemblyName>Ejercicio5_2</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\..\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_help.Designer.cs">
+      <DependentUpon>frm_help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_principal.Designer.cs">
+      <DependentUpon>frm_principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Productos.Designer.cs">
+      <DependentUpon>frm_Productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_help.resx">
+      <DependentUpon>frm_help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_principal.resx">
+      <DependentUpon>frm_principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Productos.resx">
+      <DependentUpon>frm_Productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1332919-verduleria-y-fruteria-coquito-e-hijos-fondo.w1900.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GULLON_07_ARTICLE_frutas-verduras-verano-web.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-apple-juice-apple-juice-fruit-graphy-juice-natural-foods-food-grape-superfood-clipart-thumb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngflow.com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-vegetarian-cuisine-orange-juice-fruit-mandarin-orange-orange-natural-foods-food-cloud-citrus-clipart-thumb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-wild-strawberry-banana-split-fruit-sundae-strawberry-natural-foods-frutti-di-bosco-food-strawberries-clipart-thumb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngflow.com %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-tomato-vegetable-fruits-et-legumes-lycopersicon-verdura-natural-foods-food-nightshade-family-fruit-clipart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngflow.com %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngflow.com %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngflow.com %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-chef-s-knife-vegetable-food-knife-natural-foods-kitchen-food-cooking-clipart-thumb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-cherry-tomato-italian-cuisine-campari-tomato-plum-tomato-vegetable-vegetable-natural-foods-food-tomato-nightshade-family-clipart-thumb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-aroma-grape-vegetable-marjoram-fruit-grape-natural-foods-food-blueberry-oil-clipart-thumb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guia_N4_-_Introduccion_a_las_herramientas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\programming-for-kids.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

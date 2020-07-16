@@ -1,0 +1,11 @@
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Ejercicio5_2\Ejercicio5_2\bin\Debug\Ejercicio5_2.exe
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Ejercicio5_2\Ejercicio5_2\bin\Debug\Ejercicio5_2.pdb
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Ejercicio5_2\Ejercicio5_2\obj\x86\Debug\Ejercicio5_2.frm_principal.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Ejercicio5_2\Ejercicio5_2\obj\x86\Debug\Ejercicio5_2.Properties.Resources.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Ejercicio5_2\Ejercicio5_2\obj\x86\Debug\Ejercicio5_2.csproj.GenerateResource.Cache
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Ejercicio5_2\Ejercicio5_2\obj\x86\Debug\Ejercicio5_2.exe
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Ejercicio5_2\Ejercicio5_2\obj\x86\Debug\Ejercicio5_2.pdb
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Ejercicio5_2\Ejercicio5_2\bin\Debug\Guna.UI.dll
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Ejercicio5_2\Ejercicio5_2\obj\x86\Debug\Ejercicio5_2.frm_Productos.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Ejercicio5_2\Ejercicio5_2\obj\x86\Debug\Ejercicio5_2.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Ejercicio5_2\Ejercicio5_2\obj\x86\Debug\Ejercicio5_2.frm_help.resources
