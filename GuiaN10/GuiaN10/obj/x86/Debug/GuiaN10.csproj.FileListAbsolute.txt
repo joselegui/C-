@@ -1,0 +1,16 @@
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\bin\Debug\GuiaN10.exe
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\bin\Debug\GuiaN10.pdb
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\bin\Debug\Guna.UI.dll
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\obj\x86\Debug\GuiaN10.frm_principal.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\obj\x86\Debug\GuiaN10.Properties.Resources.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\obj\x86\Debug\GuiaN10.csproj.GenerateResource.Cache
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\obj\x86\Debug\GuiaN10.exe
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\obj\x86\Debug\GuiaN10.pdb
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\obj\x86\Debug\GuiaN10.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\obj\x86\Debug\GuiaN10.frm_barraprogreso.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\obj\x86\Debug\GuiaN10.frm_ejercicio10_1.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\obj\x86\Debug\GuiaN10.frm_ejercicio10_2.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\obj\x86\Debug\GuiaN10.frm_datos10_2.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\obj\x86\Debug\GuiaN10.frm_github.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\GuiaN10\GuiaN10\obj\x86\Debug\GuiaN10.frm_linkedin.resources

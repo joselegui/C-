@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D2078B91-24F6-4BD9-9B46-6DD168299B27}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GuiaN10</RootNamespace>
+    <AssemblyName>GuiaN10</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\..\Videos\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\..\..\Videos\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_barraprogreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_barraprogreso.Designer.cs">
+      <DependentUpon>frm_barraprogreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_datos10_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_datos10_2.Designer.cs">
+      <DependentUpon>frm_datos10_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ejercicio10_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ejercicio10_1.Designer.cs">
+      <DependentUpon>frm_ejercicio10_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ejercicio10_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ejercicio10_2.Designer.cs">
+      <DependentUpon>frm_ejercicio10_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_github.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_github.Designer.cs">
+      <DependentUpon>frm_github.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_linkedin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_linkedin.Designer.cs">
+      <DependentUpon>frm_linkedin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_principal.Designer.cs">
+      <DependentUpon>frm_principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Persona.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Veterinaria.cs" />
+    <EmbeddedResource Include="frm_barraprogreso.resx">
+      <DependentUpon>frm_barraprogreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_datos10_2.resx">
+      <DependentUpon>frm_datos10_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ejercicio10_1.resx">
+      <DependentUpon>frm_ejercicio10_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ejercicio10_2.resx">
+      <DependentUpon>frm_ejercicio10_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_github.resx">
+      <DependentUpon>frm_github.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_linkedin.resx">
+      <DependentUpon>frm_linkedin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_principal.resx">
+      <DependentUpon>frm_principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1487542685_f9c268b83e052ca95d00f509bc5ad4bd.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guia_N4_-_Introduccion_a_las_herramientas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5437082 - facebook fb media social.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5437083 - ig instagram media social.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5437086 - in linked in media social.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5437095 - chat media social wa whatsapp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\github_PNG40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4043233 - anime away face no nobody spirited.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Collapse Arrow_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Expand Arrow_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\veterinaria2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\78903-clinica-veterinaria-leon-mascotas-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\veterinaria21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11001906_858429314223848_5069884358427700821_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vete.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estadisticas-linkedin-1024x512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GitHub.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
