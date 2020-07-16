@@ -1,0 +1,37 @@
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\bin\Debug\Guia_N11.exe.config
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\bin\Debug\Guia_N11.exe
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\bin\Debug\Guia_N11.pdb
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\bin\Debug\Guna.UI.dll
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.frm_ejemplo.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.Properties.Resources.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.csproj.GenerateResource.Cache
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.exe
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.pdb
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\bin\Debug\AgendaSeminarioDataSet.cs
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\bin\Debug\AgendaSeminarioDataSet.Designer.cs
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\bin\Debug\AgendaSeminarioDataSet.xsc
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\bin\Debug\AgendaSeminarioDataSet.xsd
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\bin\Debug\AgendaSeminarioDataSet.xss
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\bin\Debug\AgendaSeminario.mdb
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.frm_ejercicio.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Guia_N11\Guia_N11\bin\Debug\GuiaN11.mdb
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\bin\Debug\Guia_N11.exe.config
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.exe
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.pdb
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\bin\Debug\AgendaSeminario.mdb
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\bin\Debug\GuiaN11.mdb
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\bin\Debug\AgendaSeminarioDataSet.cs
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\bin\Debug\AgendaSeminarioDataSet.Designer.cs
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\bin\Debug\AgendaSeminarioDataSet.xsc
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\bin\Debug\AgendaSeminarioDataSet.xsd
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\bin\Debug\AgendaSeminarioDataSet.xss
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\bin\Debug\Guia_N11.exe
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\bin\Debug\Guia_N11.pdb
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.frm_ejemplo.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.frm_ejercicio.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.frm_principal.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.Properties.Resources.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.csproj.GenerateResource.Cache
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\obj\x86\Debug\Guia_N11.frm_mensaje.resources
+C:\Users\Jose\Documents\Visual Studio 2010\Projects\Seminario de programacion\Guia_N11\Guia_N11\bin\Debug\Bunifu_UI_v1.5.3.dll
